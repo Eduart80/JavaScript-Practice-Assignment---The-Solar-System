@@ -188,8 +188,7 @@ const system = {
 };
 
 // 1. Console.log the mass of Mercury
-
-
+console.log(system.mercury.mass);
 // 2. Console.log the eccentricity of Venus
 
 
