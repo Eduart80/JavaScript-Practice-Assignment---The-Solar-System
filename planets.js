@@ -190,6 +190,7 @@ const system = {
 // 1. Console.log the mass of Mercury
 console.log(system.mercury.mass);
 // 2. Console.log the eccentricity of Venus
+console.log(system.venus.eccentricity);
 
 
 // 3. Console.log the sum of the number of satellites of Jupiter, Saturn, Uranus, and Neptune (131)
